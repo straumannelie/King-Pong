@@ -1,0 +1,15 @@
+[project]
+name = "king-pong"
+version = "1.0.0"
+description = "Un Pong à deux joueurs écrit en Python avec pygame."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = ["pygame>=2.6.1"]
+
+[dependency-groups]
+dev = ["mypy>=2.4"]
+
+[tool.mypy]
+python_version = "3.13"
+strict = true
+files = ["king_pong.py"]
