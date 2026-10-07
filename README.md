@@ -2,7 +2,7 @@
 
 Un Pong à deux joueurs sur le même clavier, écrit en Python avec pygame. Le premier à 5 points gagne!
 
-![King Pong en cours de partie](game.png)
+![King Pong en cours de partie](docs/game.png)
 
 Mon premier projet de code perso, écrit en 2019 :)
 
